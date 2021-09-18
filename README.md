@@ -1,1 +1,1 @@
-# lecture-demo
+# git-lecture-demo
